@@ -15,7 +15,7 @@
  For the moment the code works for 5 centers with given coordinates 
  which are (ratom(i,:)) but it can be easily generalized to any number 
  and any geometrical configuration of parameters. The code allows precise
- and simple fitting parameters optimization for different particular
+ and efficient fitting parameters optimization for different particular
  cases.The code also performs the integration of the fitted function
  over the selected region of 2D space.(however, this part is still 
  in the developement phase).
