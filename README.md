@@ -6,7 +6,7 @@
  This code allows to fit the data over 
  the regular grid (corresponding to the bcc latice for physical 
  applications) using the adapted gradient descent algorithm
- with the fitting function of on each center of the form:
+ with the fitting function on each center of the form:
                        f_i(x)=A_i*exp(-B_i*x)+C_i, 
  where A,B and C are the fitting parameters of the center "i". 
  Then, the final fitting function has the form:
